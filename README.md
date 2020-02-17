@@ -3,7 +3,7 @@
 
  FastCache class    
 
- @package  OpenGallery   http://gituhub.com/par7133     
+ @package  OpenGallery   http://github.com/par7133     
  @author   Daniele Bonini <my25mb@aol.com>    
  @version  1.0    
  @access   public    
